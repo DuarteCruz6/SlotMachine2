@@ -11,6 +11,8 @@ Has credits so that an user needs to win in order to play as many times as he wa
 The results are randomized.
 NOTE: Still don´t know if I´ll do the coins part or not
 
+---------------------------------------------------------
+
 Esta é a versão atualizada do meu outro repositório. Como tinha dito, melhorei os gráficos e pu-la semelhante a um casino. Aqui tem :)
 
 Slot-Machine feita em português e .NET
