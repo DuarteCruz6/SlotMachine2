@@ -15,7 +15,7 @@ NOTE: Still don´t know if I´ll do the coins part or not
 
 If you prefer, you can just download the .exe part here slotmachine2/bin/Debug/net6.0-windows/slotmachine2.exe
 
-PORTUGUESE
+PORTUGUÊS
 ---------------------------------------------------------
 
 Esta é a versão atualizada do meu outro repositório. Como tinha dito, melhorei os gráficos e pu-la semelhante a um casino. Aqui tem :)
