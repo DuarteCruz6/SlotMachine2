@@ -11,6 +11,7 @@ Has credits so that an user needs to win in order to play as many times as he wa
 The results are randomized.
 NOTE: Still don´t know if I´ll do the coins part or not
 
+If you prefer, you can just download the .exe part here slotmachine2/bin/Debug/net6.0-windows/slotmachine2.exe
 ---------------------------------------------------------
 
 Esta é a versão atualizada do meu outro repositório. Como tinha dito, melhorei os gráficos e pu-la semelhante a um casino. Aqui tem :)
@@ -21,3 +22,5 @@ Possui um tutorial e o jogo em 2 forms diferentes.
 Tem créditos para que o utilizador apenas possa jogar as vezes que quiser se ganhar.
 Os resultados são ao acaso.
 NOTA: Ainda estou a considerar se faço as moedas específicas ou não
+
+Se preferir, pode apenas fazer download do .exe aqui slotmachine2/bin/Debug/net6.0-windows/slotmachine2.exe
