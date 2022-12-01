@@ -9,19 +9,19 @@ Public Class Form1
         Randomize()
         If i = 0 Then
             n1 = Int(Rnd() * 10)
-            pct1.Image = Image.FromFile((path & Str(n1) & ".png").Replace(" ", ""))
+            pct1.Image = Image.FromFile(path & Trim(Str(n1) & ".png"))
             n2 = Int(Rnd() * 10)
-            pct2.Image = Image.FromFile((path & Str(n2) & ".png").Replace(" ", ""))
+            pct2.Image = Image.FromFile(path & Trim(Str(n2) & ".png"))
             n3 = Int(Rnd() * 10)
-            pct3.Image = Image.FromFile((path & Str(n3) & ".png").Replace(" ", ""))
+            pct3.Image = Image.FromFile(path & Trim(Str(n3) & ".png"))
         ElseIf i = 1 Then
             n2 = Int(Rnd() * 10)
-            pct2.Image = Image.FromFile((path & Str(n2) & ".png").Replace(" ", ""))
+            pct2.Image = Image.FromFile(path & Trim(Str(n2) & ".png"))
             n3 = Int(Rnd() * 10)
-            pct3.Image = Image.FromFile((path & Str(n3) & ".png").Replace(" ", ""))
+            pct3.Image = Image.FromFile(path & Trim(Str(n3) & ".png"))
         ElseIf i = 2 Then
             n3 = Int(Rnd() * 10)
-            pct3.Image = Image.FromFile((path & Str(n3) & ".png").Replace(" ", ""))
+            pct3.Image = Image.FromFile(path & Trim(Str(n3) & ".png"))
         End If
     End Sub
 

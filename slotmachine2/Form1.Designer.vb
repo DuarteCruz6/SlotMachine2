@@ -106,7 +106,7 @@ Partial Class Form1
         Me.pct1.Location = New System.Drawing.Point(344, 359)
         Me.pct1.Name = "pct1"
         Me.pct1.Size = New System.Drawing.Size(90, 125)
-        Me.pct1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.pct1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.pct1.TabIndex = 4
         Me.pct1.TabStop = False
         '
@@ -116,7 +116,7 @@ Partial Class Form1
         Me.pct2.Location = New System.Drawing.Point(452, 359)
         Me.pct2.Name = "pct2"
         Me.pct2.Size = New System.Drawing.Size(87, 125)
-        Me.pct2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.pct2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.pct2.TabIndex = 5
         Me.pct2.TabStop = False
         '
@@ -126,7 +126,7 @@ Partial Class Form1
         Me.pct3.Location = New System.Drawing.Point(556, 359)
         Me.pct3.Name = "pct3"
         Me.pct3.Size = New System.Drawing.Size(90, 125)
-        Me.pct3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.pct3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.pct3.TabIndex = 6
         Me.pct3.TabStop = False
         '
