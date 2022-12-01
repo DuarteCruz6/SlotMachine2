@@ -13,7 +13,7 @@ The results are randomized.
 
 NOTE: Still don´t know if I´ll do the coins part or not
 
-If you don´t want to check out the programming part, after you download, open the .exe file here [slotmachine2/bin/Debug/net6.0-windows/slotmachine2.exe]
+If you don´t want to check out the programming part, after you download, open the .exe file here https://github.com/DuarteCruz6/SlotMachine2/blob/166a7cee04516551ae858feaa124a95aad15dd87/slotmachine2/bin/Debug/net6.0-windows/slotmachine2.exe
 
 PORTUGUÊS
 ---------------------------------------------------------
@@ -28,4 +28,4 @@ Os resultados são ao acaso.
 
 NOTA: Ainda estou a considerar se faço as moedas específicas ou não
 
-Se não quiser ver a parte da programação, depois de fazer o download, pode abrir apenas o .exe aqui [slotmachine2/bin/Debug/net6.0-windows/slotmachine2.exe]
+Se não quiser ver a parte da programação, depois de fazer o download, pode abrir apenas o .exe aqui [[slotmachine2/bin/Debug/net6.0-windows/slotmachine2.exe]](https://github.com/DuarteCruz6/SlotMachine2/blob/166a7cee04516551ae858feaa124a95aad15dd87/slotmachine2/bin/Debug/net6.0-windows/slotmachine2.exe)
